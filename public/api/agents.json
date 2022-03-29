@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Brimston",
+    "avatar": "https://picsum.photos/200",
+    "email": "brim@valo.com",
+    "id": "1",
+    "job": "Controller",
+    "nationality": [{ "title": "American", "color": "" }]
+  },
+  {
+    "name": "Sage",
+    "avatar": "https://picsum.photos/200",
+    "email": "sage@valo.com",
+    "id": "2",
+    "job": "Sentinel",
+    "nationality": [
+      { "title": "Chinese", "color": "red" },
+      { "title": "American", "color": "" }
+    ]
+  },
+  {
+    "name": "Jett",
+    "avatar": "https://picsum.photos/200",
+    "email": "jett@valo.com",
+    "id": "3",
+    "job": "Duelist",
+    "nationality": [{ "title": "Korean", "color": "indigo" }]
+  },
+  {
+    "name": "Phonixe",
+    "avatar": "https://picsum.photos/200",
+    "email": "phonixe@valo.com",
+    "id": "4",
+    "job": "Duelist",
+    "nationality": [{ "title": "American", "color": "" }]
+  },
+  {
+    "name": "Viper",
+    "avatar": "https://picsum.photos/200",
+    "email": "viper@valo.com",
+    "id": "5",
+    "job": "Controller",
+    "nationality": [{ "title": "American", "color": "" }]
+  },
+  {
+    "name": "Sova",
+    "avatar": "https://picsum.photos/200",
+    "email": "sova@valo.com",
+    "id": "6",
+    "job": "Initiator",
+    "nationality": [{ "title": "Russian", "color": "pink" }]
+  },
+  {
+    "name": "Killjoy",
+    "avatar": "https://picsum.photos/200",
+    "email": "kj@valo.com",
+    "id": "7",
+    "job": "Sentinel",
+    "nationality": [{ "title": "German", "color": "teal" }]
+  },
+  {
+    "name": "Kay/o",
+    "avatar": "https://picsum.photos/200",
+    "email": "robot@valo.com",
+    "id": "8",
+    "job": "Initiator",
+    "nationality": [{ "title": "NA", "color": "gray" }]
+  }
+]
